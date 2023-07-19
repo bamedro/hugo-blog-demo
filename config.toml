@@ -1,4 +1,4 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
-title = 'Cours Microsoft Azure'
+title = 'Cours Microsoft Azure v2'
 theme = "ananke"
